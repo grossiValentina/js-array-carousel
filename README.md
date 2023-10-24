@@ -20,13 +20,13 @@ Non lasciamoci spaventare dalla complessità apparente dell'esercizio, ma analiz
 - dobbiamo mostrare come primo elemento l'immagine con la classe "active"
 - spostiamo la classe "active" sugli elementi successivi per renderli visibili 
 
-3. al click della freccia destra:
+3. al click della freccia inferiore:
 **SE** (indice < della lunghezza -1 dell'array)
      - togliere la classe dall'elemento corrente
      - incrementare l'indice 
      - spostare la classe all'elemento successivo
 
-4. al click della freccia sinistra:
+4. al click della freccia superiore:
 **SE** (indice > 0)
      - togliere la classe dall'elemento corrente
      - decrementare l'indice
